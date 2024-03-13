@@ -26,7 +26,7 @@ function Contactme({}: Props) {
         Contact 
         </h3>
         <div className='flex flex-col space-y-10'>
-          <h4 className=' text-center font-semibold text-4xl'>Let's make something {" "}<span className='decoration-[#c13f3f]/40 underline'>amazing</span> together</h4>
+          <h4 className='text-center font-semibold text-4xl'>Let&apos;s make something {" "}<span className='decoration-[#c13f3f]/40 underline'>amazing</span> together</h4>
           <div className="flex items-center space-x-5 justify-center">
             <PhoneIcon className='text-[#c13f3f] h-7 w-7 animate-pulse'/>
             <p className='text-2xl'>+91 9442241987</p>
